@@ -2,9 +2,9 @@
 /**
  * Plugin Name: WP-KkyoAdmKit Enhanced
  * Plugin URI: https://wp-kkyoadmkit.42web.io
- * Description: 高機能お問い合わせフォームビルダー、レビューシステム、セキュリティ機能を搭載したWordPress拡張プラグイン
+ * Description: お問い合わせフォームをドラッグ & ドロップで構築 レビューフォーム アカウント登録フォームなどからNoimage簡単設定などがぎゅとつまったプラグイン
  * Version: 2.0.0
- * Author: honkitamc
+ * Author: Urayakkyo
  * Author URI: https://wp-kkyoadmkit.42web.io
  * Text Domain: wp-kkyoadmkit-ext
  * Domain Path: /languages
@@ -1867,4 +1867,5 @@ class WP_KkyoAdmKit_Extension {
 }
 
 // プラグインを初期化
+
 WP_KkyoAdmKit_Extension::get_instance();
